@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Zhong_Yah Zeou.
+- 👋 Hi, I’m Zhong-Yah Zeou.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning C & JavaScript.
