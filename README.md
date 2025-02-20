@@ -1,4 +1,4 @@
-<img src="./img/Bob.png"/>
+<!-- <img src="./img/Bob.png"/> -->
 
 ![][1]
 
